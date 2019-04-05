@@ -5,5 +5,3 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 *.swp
-meta.yaml
-*.html
